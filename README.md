@@ -1,3 +1,3 @@
-### Deployed at https://app.netlify.com/sites/lucid-poincare-ab2349/overview
+### Deployed at https://lucid-poincare-ab2349.netlify.app/
 
 # marketing
